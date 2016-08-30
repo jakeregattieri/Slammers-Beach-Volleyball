@@ -94,6 +94,9 @@ h4 {
 	padding-right:20px;
 	padding-left:20px;
 }	
+.main-content form{
+	text-align:center;
+}
 .side-bar-heading{
 	Height: auto;
 	width: 31%;
