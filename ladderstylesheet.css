@@ -88,36 +88,12 @@ h4 {
 .main-content {
 	background-color:#eef3f5;
 	border-radius: 5px;
-	height: 100%;
-	width:60%;
-	float:left;
-	padding-right:20px;
-	padding-left:20px;
+	padding-top:10px;
+	height:700px;
+	width:100%;
 }	
-.side-bar-heading{
-	Height: auto;
-	width: 31%;
-	background-color: #FFD700;
-	border-radius: 5px 5px 0px 0px;
-	float: right;
-	padding-left: 10px;
-	padding-right: 10px;
-	text-align: center;
-	font-size: 20px;
-	color: #4d4d4d;
-}
-.side-bar {
-	width: 31%;
-	background-color: #696969;
-	border-radius: 0px 0px 5px 5px;
-	float: right;
-	padding-left: 10px;
-	padding-right: 10px;
-	color: #FFFFFF;
-	height:89.7%;
-}
-.side-bar p{
-	padding-bottom:20px;
+.main-content table{
+	
 }
 .footer-border {
 	width:100%;
